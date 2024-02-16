@@ -17,4 +17,4 @@ Multiple:
 Single:
 ![v1-sig screenshot](https://github.com/sunnyleeyun/AttendanceCV/blob/main/screenshots/v1-sig.png?raw=true)
 
-- Accuracy: 10% (estimation)
+- Accuracy: 30% (estimation)
