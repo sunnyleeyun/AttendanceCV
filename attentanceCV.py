@@ -5,7 +5,7 @@ import pytesseract
 import cv2
 # import matplotlib.pyplot as plt
 
-filename = './images/IMG_00361.jpg'
+filename = './images/img_name_1.jpg'
 image = cv2.imread(filename)
 
 

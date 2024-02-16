@@ -11,6 +11,10 @@ In this version, we utilized open-source pytesseract for optical character recog
 
 **Result:**
 
+Multiple:
 ![v1 screenshot](https://github.com/sunnyleeyun/AttendanceCV/blob/main/screenshots/v1.png?raw=true)
+
+Single:
+![v1-sig screenshot](https://github.com/sunnyleeyun/AttendanceCV/blob/main/screenshots/v1-sig.png?raw=true)
 
 - Accuracy: 10% (estimation)
